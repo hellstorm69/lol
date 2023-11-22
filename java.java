@@ -1,4 +1,4 @@
-// write a java code to find factorial of a number?
+// write a java code to find factorial of a number
 import java.util.Scanner;
 
 public class FactorialCalculator {
